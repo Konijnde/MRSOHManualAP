@@ -1,0 +1,97 @@
+{
+  "Darkmess Manta Ray": {
+    "starting": true,
+    "connects_to": [
+      "Beacon Beach"
+    ],
+    "requires": ""
+  },
+  "Beacon Beach": {
+    "connects_to": [
+      "Sunrise Temple",
+      "Lighthouse",
+      "Pristine Peaks"
+    ],
+    "requires": ""
+  },
+  "Sunrise Temple": {
+    "connects_to": [],
+    "requires": "|Sunrise Temple Key|"
+  },
+  "Lighthouse": {
+    "connects_to": [],
+    "requires": "|Lighthouse Key| and |In Deep Water complete|"
+  },
+  "Pristine Peaks": {
+    "connects_to": [
+      "Winter Palace",
+      "Palette Prime"
+    ],
+    "requires": "|Purified Darkmess Energy Crystal:2| and |Come Rain or Shine complete| and |@Usable Sparks:3|"
+  },
+  "Winter Palace": {
+    "connects_to": [],
+    "requires": "|Winter Palace Key| and |Cold Mouth of the Mountain complete|"
+  },
+  "Palette Prime": {
+    "connects_to": [
+      "Spellbound Woods",
+      "Paletteville",
+      "Terra Flora"
+    ],
+    "requires": "|Purified Darkmess Energy Crystal:4| and |The Winter Palace complete| and |@Usable Sparks:6|"
+  },
+  "Spellbound Woods": {
+    "connects_to": [
+      "Well"
+    ],
+    "requires": "|Spellbound Woods Key|"
+  },
+  "Well": {
+    "connects_to": [
+      "Paletteville Outskirts"
+    ],
+    "requires": "|Well Key|"
+  },
+  "Paletteville": {
+    "connects_to": [
+      "Paletteville Outskirts"
+    ],
+    "requires": "|Secret Passage Key|"
+  },
+  "Paletteville Outskirts": {
+    "connects_to": [],
+    "requires": "|Off-Color complete| or |The Fallen King complete|"
+  },
+  "Terra Flora": {
+    "connects_to": [
+      "Everbloom Tree",
+      "Barrendale Mesa",
+      "Mt. Spout"
+    ],
+    "requires": "|Purified Darkmess Energy Crystal:6| and |Off-Color complete| and |The Fallen King complete| and |@Usable Sparks:9|"
+  },
+  "Everbloom Tree": {
+    "connects_to": [],
+    "requires": "|Everbloom Tree Key|"
+  },
+  "Mt. Spout": {
+    "connects_to": [],
+    "requires": "|Mt. Spout Key| and |Stay on Track complete|"
+  },
+  "Barrendale Mesa": {
+    "connects_to": [
+      "Industrial Area",
+      "Cursa's Stronghold"
+    ],
+    "requires": "|Purified Darkmess Energy Crystal:8| and |Uncork the Volcano complete| and |@Usable Sparks:12|"
+  },
+  "Industrial Area": {
+    "connects_to": [],
+    "requires": "|Industrial Area Key|"
+  },
+  "Cursa's Stronghold": {
+    "connects_to": [],
+    "requires": "|Purified Darkmess Energy Crystal:10| and |Momma's Payback complete| and |@Usable Sparks:15|"
+  }
+}

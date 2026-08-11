@@ -1,0 +1,11 @@
+{
+  "game": "MarioRabbidsSparksofHope",
+  "creator": "Konijnde",
+  "filler_item_name": "Star Bit",
+  "starting_items": [
+    {
+        "items": ["Mario","Luigi","Peach","Rabbid Mario","Rabbid Luigi","Rabbid Peach"],
+        "random": 2
+    }
+  ]
+}
