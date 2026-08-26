@@ -1,4 +1,5 @@
 [
+{"name":"Survive doable","requires":"|Peach| or |Rabbid Peach| or |Rabbid Luigi| or (|Rabbid Rosalina| and |The Winter Palace complete|)"},
 {"name":"Starburst unlock","requires":"","category":["Unlocked Sparks"]},
 {"name":"Reflector unlock","copy_location":"Headlong Into the Unknown","category":["Unlocked Sparks"]},
 {"name":"Exosphere unlock","copy_location":"Driven to the Edge","category":["Unlocked Sparks"]},
