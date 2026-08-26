@@ -22,7 +22,7 @@
 {"region":"Beacon Beach","name":"The Secret of the Statues","category":["Beacon Beach"],"requires":"","sort-key":"c09"},
 {"region":"Beacon Beach","name":"Cannonball!","category":["Beacon Beach"],"requires":"","sort-key":"c10"},
 {"region":"Sunrise Temple","name":"Behind the Clay Jars","category":["Beacon Beach"],"requires":"|In Deep Water complete|","sort-key":"c11"},
-{"region":"Beacon Beach","name":"The Arch of Darkmess","category":["Beacon Beach"],"requires":"","sort-key":"c12"},
+{"region":"Beacon Beach","name":"Arch of Darkmess","category":["Beacon Beach"],"requires":"","sort-key":"c12"},
 {"region":"Beacon Beach","name":"The Bottom Rung of Darkmess","category":["Beacon Beach"],"requires":"","sort-key":"c13"},
 {"region":"Beacon Beach","name":"Bob-Omb Hunt","category":["Beacon Beach"],"requires":"","sort-key":"c14"},
 {"region":"Sunrise Temple","name":"Goomba Hunt","category":["Beacon Beach"],"requires":"","sort-key":"c15"},
