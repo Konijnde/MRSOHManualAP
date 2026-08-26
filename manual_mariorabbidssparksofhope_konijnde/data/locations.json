@@ -170,7 +170,7 @@
 {"region":"Industrial Area","name":"Danger, Keep Out!","category":["Barrendale Mesa"],"requires":""},
 {"region":"Industrial Area","name":"Magikoopa Mayhem","category":["Barrendale Mesa"],"requires":""},
 {"region":"Industrial Area","name":"A Foul Windmill Blows","category":["Barrendale Mesa"],"requires":""},
-{"region":"Barrendale Mesa","name":"The Hunter of the Mesa","category":["Barrendale Mesa"],"requires":"|It's an Ill Wind that Blows complete|"},
+{"region":"Barrendale Mesa","name":"The Hunter of the Mesa","category":["Barrendale Mesa"],"requires":"|It's an Ill Wind that Blows complete| and |Garage Key|"},
 {"region":"Barrendale Mesa","name":"Victor's Barrendale Mesa Invitational","category":["Barrendale Mesa"],"requires":"|It's an Ill Wind that Blows complete|"},
 {"region":"Barrendale Mesa","name":"Gate to the Abandoned Settlement","category":["Barrendale Mesa"],"requires":""},
 {"region":"Industrial Area","name":"Spellraiser Hunt","category":["Barrendale Mesa"],"requires":""},
