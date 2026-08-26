@@ -75,7 +75,7 @@
 {"region":"Pristine Peaks","name":"Checkpoint: Lookout Point Flag","category":["Pristine Peaks"],"requires":"|Wave|","sort-key":"d01"},
 {"region":"Pristine Peaks","name":"Checkpoint: Winter Palace Front Flag","category":["Pristine Peaks"],"requires":"|Cold Mouth of the Mountain complete|","sort-key":"d02"},
 {"region":"Winter Palace","name":"Checkpoint: Winter Palace Entry Hall Flag","category":["Pristine Peaks"],"requires":"","sort-key":"d03"},
-{"region":"Pristine Peaks","name":"Memory Probe: A Gate to Another World","category":["Pristine Peaks"],"requires":"|Cold Mouth of the Mountain complete| and |Survive doable|","sort-key":"e01"},
+{"region":"Pristine Peaks","name":"Memory Probe: A Gate to Another World","category":["Pristine Peaks"],"requires":"|Cold Mouth of the Mountain complete|","sort-key":"e01"},
 {"region":"Winter Palace","name":"Memory Probe: Captain Orion","category":["Pristine Peaks"],"requires":"","sort-key":"e02"},
 {"region":"Pristine Peaks","name":"Memory Probe: Galactic Atlas: Pristine Peaks","category":["Pristine Peaks"],"requires":"|Cold Mouth of the Mountain complete|","sort-key":"e03"},
 {"region":"Pristine Peaks","name":"Memory Probe: Squashers","category":["Pristine Peaks"],"requires":"|Cold Mouth of the Mountain complete|","sort-key":"e04"},
