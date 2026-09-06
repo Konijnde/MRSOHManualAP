@@ -33,7 +33,7 @@ You are allowed to use any items you find on the map or obtain randomly by compl
 - Checkpoints
 - Memory probes
 - Purchasable memories from Salesbot 9.99+TX
-Weapon unlocks, whether purchasable, found on the map, rewarded for the Secret Zone time trials or for 100% completing a planet, do not count as locations. Collectible items also do not count as locations.
+Weapon unlocks, whether purchasable, found on the map, rewarded for the Secret Zone time trials or for 100% completing a planet, do not count as locations. Collectible items also do not count as locations. There is no second location for getting the first-place clear on Victor's challenges. Buying the Secret Area keys is not a location.
 
 ## Items
 - Character unlocks
