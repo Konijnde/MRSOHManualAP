@@ -79,7 +79,7 @@
 {"name":"Toad Trouble on Pristine Peaks (Planet Coin)","category":["Pristine Peaks Planet Coins"],"copy_location":"Toad Trouble on Pristine Peaks"},
 {"name":"Island of Darkmess (Planet Coin)","category":["Pristine Peaks Planet Coins"],"copy_location":"Island of Darkmess"},
 {"name":"The Diva and the Bookworm (Planet Coin)","category":["Pristine Peaks Planet Coins"],"copy_location":"The Diva and the Bookworm"},
-{"name":"Scan usable","requires":"|Scan|","region":"Palette Prime"},
+{"name":"Scan usable","requires":"|Scan| and (|Spellbound Woods Key| or |Secret Passage Key|)","region":"Palette Prime"},
 {"name":"Wildclaw Master unlock","copy_location":"Palette Prime Secret Zone","category":["Unlocked Sparks"]},
 {"name":"Vampastra unlock","copy_location":"Bury the Hatchet","category":["Unlocked Sparks"]},
 {"name":"Zephyrdash unlock","copy_location":"A Dryad's Dream","category":["Unlocked Sparks"]},
