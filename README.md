@@ -14,7 +14,9 @@ To fight Cursa, you must have all 9 characters.
 
 Similarly, you may only equip Sparks whose item you have received. You are allowed to use Exosphere in Driven to the Edge, as it is locked into your team for that battle.
 
-The Beep-O abilities, Wave, Scan and Wave Upgrade, may only be used when you have the respective item.
+The abilities to move blocks, rotate objects and hold objects on the map, as well as the Beep-O abilities, Wave, Scan and Wave Upgrade, may only be used when you have the respective item. Note that the rotating floor puzzle in the Winter Palace requires Rotate to complete.
+
+Quests requiring the collection of Red Coins, Green Coins or Blue Coins require the respective item to complete. The Victor item is needed to play Victor's challenges.
 
 The major sub areas on each planet require their respective key to enter:
 - Sunrise Temple and the Lighthouse on Beacon Beach
@@ -38,7 +40,7 @@ Weapon unlocks, whether purchasable, found on the map, rewarded for the Secret Z
 ## Items
 - Character unlocks
 - Spark unlocks
-- Beep-O abilities
+- Map abilities
 - Purified Darkmess Energy Crystals
 - Keys to certain areas
 - Items
