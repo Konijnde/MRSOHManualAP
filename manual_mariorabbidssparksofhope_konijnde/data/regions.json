@@ -27,7 +27,7 @@
       "Winter Palace",
       "Palette Prime"
     ],
-    "requires": "|Purified Darkmess Energy Crystal:2| and |Come Rain or Shine complete| and |@Usable Sparks:3|"
+    "requires": "|Purified Darkmess Energy Crystal:2| and |Come Rain or Shine complete| and |@Usable Sparks:3| and |Skill Prism: 5|"
   },
   "Winter Palace": {
     "connects_to": [],
@@ -39,7 +39,7 @@
       "Paletteville",
       "Terra Flora"
     ],
-    "requires": "|Purified Darkmess Energy Crystal:4| and |The Winter Palace complete| and |@Usable Sparks:6|"
+    "requires": "|Purified Darkmess Energy Crystal:4| and |The Winter Palace complete| and |@Usable Sparks:6| and |Skill Prism: 10|"
   },
   "Spellbound Woods": {
     "connects_to": [
@@ -69,7 +69,7 @@
       "Barrendale Mesa",
       "Mt. Spout"
     ],
-    "requires": "|Purified Darkmess Energy Crystal:6| and |Off-Color complete| and |The Fallen King complete| and |@Usable Sparks:9|"
+    "requires": "|Purified Darkmess Energy Crystal:6| and |Off-Color complete| and |The Fallen King complete| and |@Usable Sparks:9| and |Skill Prism: 15|"
   },
   "Everbloom Tree": {
     "connects_to": [],
@@ -84,7 +84,7 @@
       "Industrial Area",
       "Cursa's Stronghold"
     ],
-    "requires": "|Purified Darkmess Energy Crystal:8| and |Uncork the Volcano complete| and |@Usable Sparks:12|"
+    "requires": "|Purified Darkmess Energy Crystal:8| and |Uncork the Volcano complete| and |@Usable Sparks:12| and |Skill Prism: 20|"
   },
   "Industrial Area": {
     "connects_to": [],
@@ -92,6 +92,6 @@
   },
   "Cursa's Stronghold": {
     "connects_to": [],
-    "requires": "|Purified Darkmess Energy Crystal:10| and |Momma's Payback complete| and |@Usable Sparks:15|"
+    "requires": "|Purified Darkmess Energy Crystal:10| and |Momma's Payback complete| and |@Usable Sparks:15| and |Skill Prism: 25|"
   }
 }
