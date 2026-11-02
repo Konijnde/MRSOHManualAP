@@ -29,6 +29,8 @@ To go to the next planet, you will need 2/4/6/8/10 Purified Darkmess Energy Crys
 
 You are allowed to use any items you find on the map or obtain randomly by completing battles. For each Archipelago item corresponding to an in-game item, you may buy one copy of it from Salesbot 9.99+TX.
 
+You may use as many Skill Prisms per character as you have Skill Prism items.
+
 ## Locations
 - Main story battles
 - Planet coin and spark side quest completions
@@ -45,9 +47,10 @@ Weapon unlocks, whether purchasable, found on the map, rewarded for the Secret Z
 - Purified Darkmess Energy Crystals
 - Keys to certain areas
 - Items
+- (Gold) Skill Prisms
 
 ## Battle logic
-This game is pretty easy, so the logic doesn't expect you to have much to beat a specific battle. It only expects you to have at least one defensive character (Peach, Rabbid Peach, Rabbid Luigi or Rabbid Rosalina) in order to beat most of the Survive battles.
+This game is pretty easy, so the logic doesn't expect you to have much to beat a specific battle. It expects you to have at least one defensive character (Peach, Rabbid Peach, Rabbid Luigi or Rabbid Rosalina) in order to beat most of the Survive battles. It also expects you to have 5/10/15/20/25 Skill Prisms to access the next planet. This is more of a soft requirement, you can go out of logic here if you like.
 
 ## Notes
 This game is quite long, so it's probably not viable for sync games. It is recommended to play on Relaxing or Average difficulty, because playing on Demanding with a weak team can lead to extremely grindy battles.
